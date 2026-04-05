@@ -34,5 +34,3 @@ The information regarding the data set has been copied from the dataset's descri
 
 Link to the original dataset: https://archive.ics.uci.edu/dataset/80/optical+recognition+of+handwritten+digits
 Link to the description of the digits dataset: https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_digits.html#sklearn.datasets.load_digits
-
-n text (Markdown), describe the digits data set. Where does it come from? How many instances and classes does it have? Etc.
